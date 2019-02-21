@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>深圳 on Medcl</title>
+    <link>https://medcl.com/tags/%E6%B7%B1%E5%9C%B3/</link>
+    <description>Recent content in 深圳 on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 16 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/tags/%E6%B7%B1%E5%9C%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【开源中国年会】Logs, Metrics, APM with Elastic Stack</title>
+      <link>https://medcl.com/talks/2018-12-16-osc-shenzhen/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2018-12-16-osc-shenzhen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic 中国开发者大会】Elastic Community Hero</title>
+      <link>https://medcl.com/talks/2018-11-10-elasstic-dev-china-shenzhen/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2018-11-10-elasstic-dev-china-shenzhen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic 深圳 Meetup】基于爬虫和 Elasticsearch 快速构建站内搜索引擎</title>
+      <link>https://medcl.com/talks/2017-12-16-elastic-meetup-shenzhen/</link>
+      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-12-16-elastic-meetup-shenzhen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

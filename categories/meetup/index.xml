@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetup on Medcl</title>
+    <link>https://medcl.com/categories/meetup/</link>
+    <description>Recent content in Meetup on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 30 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/categories/meetup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【Elastic 南京 Meetup】Elastic 探秘之遗落的珍珠</title>
+      <link>https://medcl.com/talks/2018-06-30-elastic-meetup-nanjing/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2018-06-30-elastic-meetup-nanjing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic 深圳 Meetup】基于爬虫和 Elasticsearch 快速构建站内搜索引擎</title>
+      <link>https://medcl.com/talks/2017-12-16-elastic-meetup-shenzhen/</link>
+      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-12-16-elastic-meetup-shenzhen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic 武汉 Meetup】Elastic Stack 6.0 新功能介绍</title>
+      <link>https://medcl.com/talks/2017-11-04-elastic-meetup-wuhang-1/</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-11-04-elastic-meetup-wuhang-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic 武汉 Meetup】基于爬虫和 Elasticsearch 快速构建站内搜索引擎</title>
+      <link>https://medcl.com/talks/2017-11-04-elastic-meetup-wuhang-2/</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-11-04-elastic-meetup-wuhang-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic 长沙 Meetup】Elastic Stack 6.0 新功能介绍</title>
+      <link>https://medcl.com/talks/2017-10-28-elastic-meetup-changsha/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-10-28-elastic-meetup-changsha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【OSC 源创会重庆站】又一个爬虫</title>
+      <link>https://medcl.com/talks/2017-09-24-osc-chongqing/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-09-24-osc-chongqing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic 杭州 Meetup】Metricbeat 在容器监控方面的应用</title>
+      <link>https://medcl.com/talks/2017-06-25-elastic-meetup-hangzhou/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-06-25-elastic-meetup-hangzhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic 南京 Meetup】The State of Elastic Stack</title>
+      <link>https://medcl.com/talks/2017-06-10-elastic-meetup-nanjing/</link>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-06-10-elastic-meetup-nanjing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic 北京 Meetup】Elastic Stack 5.x 最新进展</title>
+      <link>https://medcl.com/talks/2017-05-21-elastic-meetup-beijing/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-05-21-elastic-meetup-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic 上海 Meetup】Elastic Stack 5.x 最新进展</title>
+      <link>https://medcl.com/talks/2017-05-14-elastic-meetup.shanghai/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-05-14-elastic-meetup.shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【OSC 源创会上海站】Elasticsearch-不仅仅是搜索</title>
+      <link>https://medcl.com/talks/2017-05-13-osc-shanghai/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-05-13-osc-shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic 成都 Meetup】Elastic Stack V5 新特性与变化</title>
+      <link>https://medcl.com/talks/2016-10-29-elastic-meetup-chengdu/</link>
+      <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2016-10-29-elastic-meetup-chengdu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic 杭州 Meetup】Beats 介绍与扩展开发</title>
+      <link>https://medcl.com/talks/2016-06-18-elastic-meetup-hangzhou/</link>
+      <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2016-06-18-elastic-meetup-hangzhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic 北京 Meetup】Elastic Stack 5.0 的新特性介绍</title>
+      <link>https://medcl.com/talks/2016-05-15-elastic-meetup-beijing/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2016-05-15-elastic-meetup-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【ESCC#4 成都】What&#39;s New in Elasticsearch 2.0</title>
+      <link>https://medcl.com/talks/2015-11-22-escc-4-chengdu/</link>
+      <pubDate>Sun, 22 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2015-11-22-escc-4-chengdu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【ESCC#4 上海】Get started with Beats</title>
+      <link>https://medcl.com/talks/2015-10-25-escc-4-shanghai/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2015-10-25-escc-4-shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【ESCC#4 北京】Analyzer 101</title>
+      <link>https://medcl.com/talks/2015-10-17-escc-4-beijing/</link>
+      <pubDate>Sat, 17 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2015-10-17-escc-4-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【QCon 上海站】海量运维数据实时分析</title>
+      <link>https://medcl.com/talks/2014-10-18-qcong-shanghai/</link>
+      <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2014-10-18-qcong-shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【ESCC#3 北京】SaltStack 与 ES 批量部署</title>
+      <link>https://medcl.com/talks/2014-01-19-escc-3-beijing/</link>
+      <pubDate>Sun, 19 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2014-01-19-escc-3-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【ESCC#1 北京】ElasticSearch Training - Advanced Concepts</title>
+      <link>https://medcl.com/talks/2013-01-20-escc-1-beijing/</link>
+      <pubDate>Sun, 20 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2013-01-20-escc-1-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【ESCC#1 北京】ElasticSearch Training - Brief Tutorial</title>
+      <link>https://medcl.com/talks/2013-01-20-escc-1-beijing-1/</link>
+      <pubDate>Sun, 20 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2013-01-20-escc-1-beijing-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Lamper】ElasticSearch, A search engine ready to fly</title>
+      <link>https://medcl.com/talks/2012-02-18-lamper-beijing/</link>
+      <pubDate>Sat, 18 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2012-02-18-lamper-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【内部交流】Quick intro to elastic search</title>
+      <link>https://medcl.com/talks/2010-09-29-beisen-beijing/</link>
+      <pubDate>Wed, 29 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2010-09-29-beisen-beijing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

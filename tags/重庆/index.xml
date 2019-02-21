@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>重庆 on Medcl</title>
+    <link>https://medcl.com/tags/%E9%87%8D%E5%BA%86/</link>
+    <description>Recent content in 重庆 on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 24 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/tags/%E9%87%8D%E5%BA%86/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【OSC 源创会重庆站】又一个爬虫</title>
+      <link>https://medcl.com/talks/2017-09-24-osc-chongqing/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-09-24-osc-chongqing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>阿里云栖大会 on Medcl</title>
+    <link>https://medcl.com/tags/%E9%98%BF%E9%87%8C%E4%BA%91%E6%A0%96%E5%A4%A7%E4%BC%9A/</link>
+    <description>Recent content in 阿里云栖大会 on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 22 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/tags/%E9%98%BF%E9%87%8C%E4%BA%91%E6%A0%96%E5%A4%A7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【阿里云栖大会】阿里云上的 Elasticsearch 产品特性解读</title>
+      <link>https://medcl.com/talks/2017-11-22-aliyun-yunqi-conf-guangdong/</link>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-11-22-aliyun-yunqi-conf-guangdong/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

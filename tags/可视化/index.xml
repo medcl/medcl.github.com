@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>可视化 on Medcl</title>
+    <link>https://medcl.com/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+    <description>Recent content in 可视化 on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 27 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/tags/%E5%8F%AF%E8%A7%86%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【第十一届中国 R 会议】开源的可视化数据分析平台 Kibana 从 0 到100</title>
+      <link>https://medcl.com/talks/2018-05-27-china-r-conf-beijing/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2018-05-27-china-r-conf-beijing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

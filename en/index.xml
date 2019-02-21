@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medcl</title>
+    <link>https://medcl.com/en/</link>
+    <description>Recent content on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 16 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【OSC】Logs, Metrics, APM with Elastic Stack</title>
+      <link>https://medcl.com/en/talks/en/2018-12-16-osc-shenzhen/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2018-12-16-osc-shenzhen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic Developers China】Elastic Community Hero</title>
+      <link>https://medcl.com/en/talks/en/2018-11-10-elasstic-dev-china-shenzhen/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2018-11-10-elasstic-dev-china-shenzhen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Aliyun MVP Tech Show】Big data analysis based on Elastic Stack</title>
+      <link>https://medcl.com/en/talks/en/2018-08-25-alibaba-mvp-tech-show-changsha/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2018-08-25-alibaba-mvp-tech-show-changsha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【COSCUP】Big data analysis with Elastic Stack</title>
+      <link>https://medcl.com/en/talks/en/2018-08-12-coscup-taipei/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2018-08-12-coscup-taipei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【YueLu TechSummit】A Introduction to Kibana</title>
+      <link>https://medcl.com/en/talks/en/2018-07-13-tech-summit-changsha/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2018-07-13-tech-summit-changsha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic Nanjing Meetup】The seldom known features of Elastic</title>
+      <link>https://medcl.com/en/talks/en/2018-06-30-elastic-meetup-nanjing/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2018-06-30-elastic-meetup-nanjing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【R Conf】Open source data visualization and analysis platform: Kibana from 0 to 100</title>
+      <link>https://medcl.com/en/talks/en/2018-05-27-china-r-conf-beijing/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2018-05-27-china-r-conf-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Aliyun MVP #5】Elasticsearch in AIOPS</title>
+      <link>https://medcl.com/en/talks/en/2018-01-20-aliyun-mvp-meetup-beijing/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2018-01-20-aliyun-mvp-meetup-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【The GIAC】Elastic Stack Architecture Evolution and Outlook</title>
+      <link>https://medcl.com/en/talks/en/2017-12-22-the-giac-shanghai/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2017-12-22-the-giac-shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic Shenzhen Meetup】Build a site search engine based on crawlers and Elasticsearch</title>
+      <link>https://medcl.com/en/talks/en/2017-12-16-elastic-meetup-shenzhen/</link>
+      <pubDate>Sat, 16 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2017-12-16-elastic-meetup-shenzhen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Alibaba Computing Conf】Elasticsearch in Aliyun</title>
+      <link>https://medcl.com/en/talks/en/2017-11-22-aliyun-yunqi-conf-guangdong/</link>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2017-11-22-aliyun-yunqi-conf-guangdong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic Wuhang Meetup】Build a site search engine based on crawlers and Elasticsearch</title>
+      <link>https://medcl.com/en/talks/en/2017-11-04-elastic-meetup-wuhang-2/</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2017-11-04-elastic-meetup-wuhang-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic Wuhang Meetup】What&#39;s new in Elastic Stack 6.0</title>
+      <link>https://medcl.com/en/talks/en/2017-11-04-elastic-meetup-wuhang-1/</link>
+      <pubDate>Sat, 04 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2017-11-04-elastic-meetup-wuhang-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic Changsha Meetup】What&#39;s new in Elastic Stack 6.0</title>
+      <link>https://medcl.com/en/talks/en/2017-10-28-elastic-meetup-changsha/</link>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2017-10-28-elastic-meetup-changsha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【OSC Chongqing】Another Spider for Elasticsearch</title>
+      <link>https://medcl.com/en/talks/en/2017-09-24-osc-chongqing/</link>
+      <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2017-09-24-osc-chongqing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic Hangzhou Meetup】Container Monitoring with Metricbeat</title>
+      <link>https://medcl.com/en/talks/en/2017-06-25-elastic-meetup-hangzhou/</link>
+      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2017-06-25-elastic-meetup-hangzhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic Nanjing Meetup】The State of Elastic Stack</title>
+      <link>https://medcl.com/en/talks/en/2017-06-10-elastic-meetup-nanjing/</link>
+      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2017-06-10-elastic-meetup-nanjing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic Beijing Meetup】Elastic Stack 5.x update</title>
+      <link>https://medcl.com/en/talks/en/2017-05-21-elastic-meetup-beijing/</link>
+      <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2017-05-21-elastic-meetup-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【R Conf】Elastic Stack and Machine Learning</title>
+      <link>https://medcl.com/en/talks/en/2017-05-20-china-r-beijingi/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2017-05-20-china-r-beijingi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic Shanghai Meetup】Elastic Stack 5.x update</title>
+      <link>https://medcl.com/en/talks/en/2017-05-14-elastic-meetup.shanghai/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2017-05-14-elastic-meetup.shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【OSC Shanghai】Elasticsearch - Beyond Search</title>
+      <link>https://medcl.com/en/talks/en/2017-05-13-osc-shanghai/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2017-05-13-osc-shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic Chengdu Meetup】What&#39;s new Elastic Stack V5</title>
+      <link>https://medcl.com/en/talks/en/2016-10-29-elastic-meetup-chengdu/</link>
+      <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2016-10-29-elastic-meetup-chengdu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic Dev China】From ELK to Elastic Stack &#43; Ingest</title>
+      <link>https://medcl.com/en/talks/en/2016-12-10-elastic-dev-china-beijing/</link>
+      <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2016-12-10-elastic-dev-china-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic Hangzhou Meetup】Beats introduction and plugin development</title>
+      <link>https://medcl.com/en/talks/en/2016-06-18-elastic-meetup-hangzhou/</link>
+      <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2016-06-18-elastic-meetup-hangzhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【China Cloud Computing Conference - Spark Summit】Elasticsearch &amp; Bigdata</title>
+      <link>https://medcl.com/en/talks/en/2016-05-15-cctc-spark-summit-beijing/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2016-05-15-cctc-spark-summit-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic Beijing Meetup】What&#39;s new in Elastic Stack 5.0</title>
+      <link>https://medcl.com/en/talks/en/2016-05-15-elastic-meetup-beijing/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2016-05-15-elastic-meetup-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【QCon Beijing】Data Exploration and Analysis Based on Elastic Stack</title>
+      <link>https://medcl.com/en/talks/en/2016-04-22-qcon-beijing/</link>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2016-04-22-qcon-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Singapore Management University】Data Exploration and Analytics with Elastic Stack</title>
+      <link>https://medcl.com/en/talks/en/2016-03-21-smu-singapore/</link>
+      <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2016-03-21-smu-singapore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【FOSSASIA】Elasticsearch: You know, for search! and more! </title>
+      <link>https://medcl.com/en/talks/en/2016-03-20-fossasia-singapore/</link>
+      <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2016-03-20-fossasia-singapore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【ESCC#4 Chengdu】What&#39;s New in Elasticsearch 2.0</title>
+      <link>https://medcl.com/en/talks/en/2015-11-22-escc-4-chengdu/</link>
+      <pubDate>Sun, 22 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2015-11-22-escc-4-chengdu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【ESCC#4 Shanghai】Get started with Beats</title>
+      <link>https://medcl.com/en/talks/en/2015-10-25-escc-4-shanghai/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2015-10-25-escc-4-shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【ESCC#4 Beijing】Analyzer 101</title>
+      <link>https://medcl.com/en/talks/en/2015-10-17-escc-4-beijing/</link>
+      <pubDate>Sat, 17 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2015-10-17-escc-4-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【QCon Shanghai】Real-time analysis of massive operational data</title>
+      <link>https://medcl.com/en/talks/en/2014-10-18-qcong-shanghai/</link>
+      <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2014-10-18-qcong-shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【ESCC#3 Beijing】Deploy ES with SaltStack</title>
+      <link>https://medcl.com/en/talks/en/2014-01-19-escc-3-beijing/</link>
+      <pubDate>Sun, 19 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2014-01-19-escc-3-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【ESCC#1 Beijing】ElasticSearch Training - Advanced Concepts</title>
+      <link>https://medcl.com/en/talks/en/2013-01-20-escc-1-beijing/</link>
+      <pubDate>Sun, 20 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2013-01-20-escc-1-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【ESCC#1 Beijing】ElasticSearch Training - Brief Tutorial</title>
+      <link>https://medcl.com/en/talks/en/2013-01-20-escc-1-beijing-1/</link>
+      <pubDate>Sun, 20 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2013-01-20-escc-1-beijing-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Lamper】ElasticSearch, A search engine ready to fly</title>
+      <link>https://medcl.com/en/talks/en/2012-02-18-lamper-beijing/</link>
+      <pubDate>Sat, 18 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2012-02-18-lamper-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Internal】Quick intro to elastic search</title>
+      <link>https://medcl.com/en/talks/en/2010-09-29-beisen-beijing/</link>
+      <pubDate>Wed, 29 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2010-09-29-beisen-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://medcl.com/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/about/</guid>
+      <description>Hi, there, I am a Developer and Evangelist at Elastic and the Elastic China Community creator. I have been using Elasticsearch for quite a long time(back to March 2010), I developed and maintaining some open source plugins for Elasticsearch. I joined Elastic in 2015, before that, I was on two startups and gathering over 7 years experience around backend engineering. my interests mainly around distributed system, search engine, devops, security and high performance.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://medcl.com/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/contact/</guid>
+      <description>Follow me on twitter, @medcl
+Email: m AT medcl.net (replace AT to @)</description>
+    </item>
+    
+  </channel>
+</rss>

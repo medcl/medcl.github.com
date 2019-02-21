@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference on Medcl</title>
+    <link>https://medcl.com/categories/conference/</link>
+    <description>Recent content in Conference on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 16 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/categories/conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【开源中国年会】Logs, Metrics, APM with Elastic Stack</title>
+      <link>https://medcl.com/talks/2018-12-16-osc-shenzhen/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2018-12-16-osc-shenzhen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic 中国开发者大会】Elastic Community Hero</title>
+      <link>https://medcl.com/talks/2018-11-10-elasstic-dev-china-shenzhen/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2018-11-10-elasstic-dev-china-shenzhen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【阿里云 MVP Tech Show】基于 Elastic Stack 的大数据分析</title>
+      <link>https://medcl.com/talks/2018-08-25-alibaba-mvp-tech-show-changsha/</link>
+      <pubDate>Sat, 25 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2018-08-25-alibaba-mvp-tech-show-changsha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【開源人年會 COSCUP】基于 Elastic Stack 的大数据分析</title>
+      <link>https://medcl.com/talks/2018-08-12-coscup-taipei/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2018-08-12-coscup-taipei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【岳麓技术峰会】A Introduction to Kibana</title>
+      <link>https://medcl.com/talks/2018-07-13-tech-summit-changsha/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2018-07-13-tech-summit-changsha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【第十一届中国 R 会议】开源的可视化数据分析平台 Kibana 从 0 到100</title>
+      <link>https://medcl.com/talks/2018-05-27-china-r-conf-beijing/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2018-05-27-china-r-conf-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【阿里云 MVP 第五期】Elasticsearch 在智能运维领域的应用</title>
+      <link>https://medcl.com/talks/2018-01-20-aliyun-mvp-meetup-beijing/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2018-01-20-aliyun-mvp-meetup-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【全球互联网架构大会】进击的 Elastic Stack，Elastic Stack 架构演进与展望</title>
+      <link>https://medcl.com/talks/2017-12-22-the-giac-shanghai/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-12-22-the-giac-shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【阿里云栖大会】阿里云上的 Elasticsearch 产品特性解读</title>
+      <link>https://medcl.com/talks/2017-11-22-aliyun-yunqi-conf-guangdong/</link>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-11-22-aliyun-yunqi-conf-guangdong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【第十届中国 R 会议】Elastic Stack 与机器学习</title>
+      <link>https://medcl.com/talks/2017-05-20-china-r-beijingi/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-05-20-china-r-beijingi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic 中国开发者大会】From ELK to Elastic Stack &#43; Ingest</title>
+      <link>https://medcl.com/talks/2016-12-10-elastic-dev-china-beijing/</link>
+      <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2016-12-10-elastic-dev-china-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【中国云计算大会 Spark 峰会】Elasticsearch 与大数据</title>
+      <link>https://medcl.com/talks/2016-05-15-cctc-spark-summit-beijing/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2016-05-15-cctc-spark-summit-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【QCon 北京站】基于 Elastic Stack 的数据探索与分析</title>
+      <link>https://medcl.com/talks/2016-04-22-qcon-beijing/</link>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2016-04-22-qcon-beijing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Singapore Management University】Data Exploration and Analytics with Elastic Stack</title>
+      <link>https://medcl.com/talks/2016-03-21-smu-singapore/</link>
+      <pubDate>Mon, 21 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2016-03-21-smu-singapore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【FOSSASIA】Elasticsearch: You know, for search! and more! </title>
+      <link>https://medcl.com/talks/2016-03-20-fossasia-singapore/</link>
+      <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2016-03-20-fossasia-singapore/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

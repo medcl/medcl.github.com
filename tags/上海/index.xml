@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>上海 on Medcl</title>
+    <link>https://medcl.com/tags/%E4%B8%8A%E6%B5%B7/</link>
+    <description>Recent content in 上海 on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 22 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/tags/%E4%B8%8A%E6%B5%B7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【全球互联网架构大会】进击的 Elastic Stack，Elastic Stack 架构演进与展望</title>
+      <link>https://medcl.com/talks/2017-12-22-the-giac-shanghai/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-12-22-the-giac-shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic 上海 Meetup】Elastic Stack 5.x 最新进展</title>
+      <link>https://medcl.com/talks/2017-05-14-elastic-meetup.shanghai/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-05-14-elastic-meetup.shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【OSC 源创会上海站】Elasticsearch-不仅仅是搜索</title>
+      <link>https://medcl.com/talks/2017-05-13-osc-shanghai/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-05-13-osc-shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【ESCC#4 上海】Get started with Beats</title>
+      <link>https://medcl.com/talks/2015-10-25-escc-4-shanghai/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2015-10-25-escc-4-shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【QCon 上海站】海量运维数据实时分析</title>
+      <link>https://medcl.com/talks/2014-10-18-qcong-shanghai/</link>
+      <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2014-10-18-qcong-shanghai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

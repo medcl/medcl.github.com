@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R语言 on Medcl</title>
+    <link>https://medcl.com/tags/r%E8%AF%AD%E8%A8%80/</link>
+    <description>Recent content in R语言 on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/tags/r%E8%AF%AD%E8%A8%80/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【第十届中国 R 会议】Elastic Stack 与机器学习</title>
+      <link>https://medcl.com/talks/2017-05-20-china-r-beijingi/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-05-20-china-r-beijingi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

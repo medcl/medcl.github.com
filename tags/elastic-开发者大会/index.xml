@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elastic 开发者大会 on Medcl</title>
+    <link>https://medcl.com/tags/elastic-%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A/</link>
+    <description>Recent content in Elastic 开发者大会 on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 10 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/tags/elastic-%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【Elastic 中国开发者大会】Elastic Community Hero</title>
+      <link>https://medcl.com/talks/2018-11-10-elasstic-dev-china-shenzhen/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2018-11-10-elasstic-dev-china-shenzhen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

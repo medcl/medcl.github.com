@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualization on Medcl</title>
+    <link>https://medcl.com/en/tags/visualization/</link>
+    <description>Recent content in Visualization on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 27 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/en/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【R Conf】Open source data visualization and analysis platform: Kibana from 0 to 100</title>
+      <link>https://medcl.com/en/talks/en/2018-05-27-china-r-conf-beijing/</link>
+      <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2018-05-27-china-r-conf-beijing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

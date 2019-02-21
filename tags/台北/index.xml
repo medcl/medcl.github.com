@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>台北 on Medcl</title>
+    <link>https://medcl.com/tags/%E5%8F%B0%E5%8C%97/</link>
+    <description>Recent content in 台北 on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 12 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/tags/%E5%8F%B0%E5%8C%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【開源人年會 COSCUP】基于 Elastic Stack 的大数据分析</title>
+      <link>https://medcl.com/talks/2018-08-12-coscup-taipei/</link>
+      <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2018-08-12-coscup-taipei/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

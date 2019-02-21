@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Osc on Medcl</title>
+    <link>https://medcl.com/tags/osc/</link>
+    <description>Recent content in Osc on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 14 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/tags/osc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【Elastic 上海 Meetup】Elastic Stack 5.x 最新进展</title>
+      <link>https://medcl.com/talks/2017-05-14-elastic-meetup.shanghai/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-05-14-elastic-meetup.shanghai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【OSC 源创会上海站】Elasticsearch-不仅仅是搜索</title>
+      <link>https://medcl.com/talks/2017-05-13-osc-shanghai/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2017-05-13-osc-shanghai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

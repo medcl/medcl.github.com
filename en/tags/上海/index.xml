@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>上海 on Medcl</title>
+    <link>https://medcl.com/en/tags/%E4%B8%8A%E6%B5%B7/</link>
+    <description>Recent content in 上海 on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 18 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/en/tags/%E4%B8%8A%E6%B5%B7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【QCon Shanghai】Real-time analysis of massive operational data</title>
+      <link>https://medcl.com/en/talks/en/2014-10-18-qcong-shanghai/</link>
+      <pubDate>Sat, 18 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2014-10-18-qcong-shanghai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

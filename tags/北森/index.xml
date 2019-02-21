@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>北森 on Medcl</title>
+    <link>https://medcl.com/tags/%E5%8C%97%E6%A3%AE/</link>
+    <description>Recent content in 北森 on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 29 Sep 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/tags/%E5%8C%97%E6%A3%AE/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【内部交流】Quick intro to elastic search</title>
+      <link>https://medcl.com/talks/2010-09-29-beisen-beijing/</link>
+      <pubDate>Wed, 29 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/talks/2010-09-29-beisen-beijing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

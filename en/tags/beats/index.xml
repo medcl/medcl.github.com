@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beats on Medcl</title>
+    <link>https://medcl.com/en/tags/beats/</link>
+    <description>Recent content in Beats on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 29 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/en/tags/beats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【Elastic Chengdu Meetup】What&#39;s new Elastic Stack V5</title>
+      <link>https://medcl.com/en/talks/en/2016-10-29-elastic-meetup-chengdu/</link>
+      <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2016-10-29-elastic-meetup-chengdu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【Elastic Hangzhou Meetup】Beats introduction and plugin development</title>
+      <link>https://medcl.com/en/talks/en/2016-06-18-elastic-meetup-hangzhou/</link>
+      <pubDate>Sat, 18 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2016-06-18-elastic-meetup-hangzhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【ESCC#4 Shanghai】Get started with Beats</title>
+      <link>https://medcl.com/en/talks/en/2015-10-25-escc-4-shanghai/</link>
+      <pubDate>Sun, 25 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2015-10-25-escc-4-shanghai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
