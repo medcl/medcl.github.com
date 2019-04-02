@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canvas on Medcl</title>
+    <link>https://medcl.com/en/tags/canvas/</link>
+    <description>Recent content in Canvas on Medcl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://medcl.com/en/tags/canvas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>【Elastic Chengdu Meetup】Kibana Canvas -- Your data can be more beautiful！</title>
+      <link>https://medcl.com/en/talks/en/2019-03-10-elastic-meetup-chengdu/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2019-03-10-elastic-meetup-chengdu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

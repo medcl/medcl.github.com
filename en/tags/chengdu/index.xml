@@ -6,10 +6,19 @@
     <description>Recent content in Chengdu on Medcl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 22 Nov 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://medcl.com/en/tags/chengdu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>【Elastic Chengdu Meetup】Kibana Canvas -- Your data can be more beautiful！</title>
+      <link>https://medcl.com/en/talks/en/2019-03-10-elastic-meetup-chengdu/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://medcl.com/en/talks/en/2019-03-10-elastic-meetup-chengdu/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>【ESCC#4 Chengdu】What&#39;s New in Elasticsearch 2.0</title>

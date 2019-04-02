@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://medcl.com/en/talks/en/2019-03-17-elastic-meetup-wuhan/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://medcl.com/en/talks/en/2019-03-10-elastic-meetup-chengdu/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://medcl.com/en/talks/en/2018-12-16-osc-shenzhen/</loc>
     <lastmod>2018-12-16T00:00:00+00:00</lastmod>
   </url>
@@ -58,12 +68,12 @@
   </url>
   
   <url>
-    <loc>https://medcl.com/en/talks/en/2017-11-04-elastic-meetup-wuhang-2/</loc>
+    <loc>https://medcl.com/en/talks/en/2017-11-04-elastic-meetup-wuhan-2/</loc>
     <lastmod>2017-11-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://medcl.com/en/talks/en/2017-11-04-elastic-meetup-wuhang-1/</loc>
+    <loc>https://medcl.com/en/talks/en/2017-11-04-elastic-meetup-wuhan-1/</loc>
     <lastmod>2017-11-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -297,6 +307,22 @@
   </url>
   
   <url>
+    <loc>https://medcl.com/en/tags/canvas/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://medcl.com/tags/canvas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://medcl.com/en/tags/canvas/"
+                />
+  </url>
+  
+  <url>
     <loc>https://medcl.com/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -319,7 +345,7 @@
   
   <url>
     <loc>https://medcl.com/en/tags/chengdu/</loc>
-    <lastmod>2015-11-22T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -565,7 +591,7 @@
   
   <url>
     <loc>https://medcl.com/en/</loc>
-    <lastmod>2018-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -581,7 +607,7 @@
   
   <url>
     <loc>https://medcl.com/en/tags/meetup/</loc>
-    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -597,7 +623,7 @@
   
   <url>
     <loc>https://medcl.com/en/categories/meetup/</loc>
-    <lastmod>2018-06-30T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -710,6 +736,22 @@
   </url>
   
   <url>
+    <loc>https://medcl.com/en/tags/security/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://medcl.com/tags/security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://medcl.com/en/tags/security/"
+                />
+  </url>
+  
+  <url>
     <loc>https://medcl.com/en/tags/shanghai/</loc>
     <lastmod>2017-12-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -789,7 +831,7 @@
   
   <url>
     <loc>https://medcl.com/en/talks/</loc>
-    <lastmod>2018-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -838,8 +880,8 @@
   </url>
   
   <url>
-    <loc>https://medcl.com/en/tags/wuhang/</loc>
-    <lastmod>2017-11-04T00:00:00+00:00</lastmod>
+    <loc>https://medcl.com/en/tags/wuhan/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
