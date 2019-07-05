@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://medcl.com/talks/2019-04-10-elasticon-china/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://medcl.com/talks/2019-03-17-elastic-meetup-wuhan/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
   </url>
@@ -289,7 +294,7 @@
   
   <url>
     <loc>https://medcl.com/categories/conference/</loc>
-    <lastmod>2018-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -339,6 +344,22 @@
     <loc>https://medcl.com/tags/elastic-%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A/</loc>
     <lastmod>2018-11-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://medcl.com/tags/elasticon/</loc>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://medcl.com/en/tags/elasticon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://medcl.com/tags/elasticon/"
+                />
   </url>
   
   <url>
@@ -455,7 +476,7 @@
   
   <url>
     <loc>https://medcl.com/</loc>
-    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -466,22 +487,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://medcl.com/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://medcl.com/categories/meetup/</loc>
-    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://medcl.com/en/categories/meetup/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://medcl.com/categories/meetup/"
                 />
   </url>
   
@@ -498,6 +503,22 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://medcl.com/tags/meetup/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://medcl.com/categories/meetup/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://medcl.com/en/categories/meetup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://medcl.com/categories/meetup/"
                 />
   </url>
   
@@ -653,7 +674,7 @@
   
   <url>
     <loc>https://medcl.com/talks/</loc>
-    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -739,7 +760,7 @@
   
   <url>
     <loc>https://medcl.com/tags/%E5%8C%97%E4%BA%AC/</loc>
-    <lastmod>2017-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
