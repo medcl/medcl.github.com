@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>【Elastic{ON} Beijing】Elastic Stack - What&#39;s new in 7.0</title>
+      <title>【Elastic{ON} Beijing】Elastic Stack - What&#39;s new in Elastic Stack 7.0</title>
       <link>https://medcl.com/en/talks/en/2019-04-10-elasticon-china/</link>
       <pubDate>Wed, 10 Apr 2019 00:00:00 +0000</pubDate>
       
@@ -386,7 +386,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://medcl.com/en/about/</guid>
-      <description>Hi, there, I am a Developer and Evangelist at Elastic and the Elastic China Community creator. I have been using Elasticsearch for quite a long time(back to March 2010), I developed and maintaining some open source plugins for Elasticsearch. I joined Elastic in 2015, before that, I was on two startups and gathering over 7 years experience around backend engineering. my interests mainly around distributed system, search engine, devops, security and high performance.</description>
+      <description>Hi, there, I am a Consulting Architect and Developer Evangelist at Elastic and the Elastic China Community creator. I have been using Elasticsearch for quite a long time(back to March 2010), I developed and maintaining some open source plugins for Elasticsearch. I joined Elastic in 2015, before that, I was on two startups and gathering over 7 years experience around backend engineering. my interests mainly around distributed system, search engine, devops, security and high performance.</description>
     </item>
     
     <item>
